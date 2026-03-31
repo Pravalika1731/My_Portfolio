@@ -43,7 +43,15 @@ const Projects = () => {
       techStack: ["React", "RESTS APIs", "MySQL/H2", "SpringBoot", "Maven", "Java"],
       githubLink: "https://github.com/Pravalika1731/ecommerce-fullstack-app",
       liveLink: "#"
+    },
+     {
+      title: " ThriftStore Ecommerce",
+      description: "A full-stack ecommerce thrift store web application built using Spring Boot, PostgreSQL, HTML, CSS, and JavaScript.",
+      techStack: ["HTML/CSS", "RESTS APIs", "PostgreSQL", "SpringBoot", "Maven", "Java", "Iavascript", "Hibernate", "Spring Data JPA"],
+      githubLink: "https://github.com/Pravalika1731/Thriftstore",
+      liveLink: "#"
     }
+
 
 
 
